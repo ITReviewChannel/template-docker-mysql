@@ -48,4 +48,5 @@
 
 * https://registry.hub.docker.com/_/mysql
 * https://stackoverflow.com/questions/32360687/connect-to-docker-mysql-container-from-localhost
+* https://towardsdatascience.com/connect-to-mysql-running-in-docker-container-from-a-local-machine-6d996c574e55
 * https://itreviewchannel.ru/rabota-s-mysql-cherez-komandnuyu-stroku/
