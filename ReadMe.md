@@ -13,7 +13,7 @@
 
 > docker-compose run --service-ports db
 
-"db" - в данном случае это наименование блока в "docker-compose.yml".
+"db" - в данном случае это наименование блока из конфигурации "docker-compose.yml".
 
 
 **Подключение к MySQL с локальной машины**:
